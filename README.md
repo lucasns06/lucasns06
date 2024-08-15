@@ -7,5 +7,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasns06&bg_color=00000000)](https://github.com/lucasns06/github-readme-stats)
 
 <br>
-<a href="https://steamcommunity.com/id/Atrofy/">
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+
+<a href="https://steamcommunity.com/id/Atrofy/" target="_blank"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">  </a>
+
