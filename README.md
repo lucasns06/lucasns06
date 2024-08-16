@@ -10,3 +10,4 @@
 
 <a href="https://steamcommunity.com/id/Atrofy/" target="_blank"> <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">  </a>
 
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/) -->
