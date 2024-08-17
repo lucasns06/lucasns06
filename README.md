@@ -12,3 +12,8 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white")](https://steamcommunity.com/id/Atrofy/")
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasns06/) 
 <!--https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="snake_lucasns06_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="snake_lucasns06_light.svg" />
+  <img alt="github-snake" src="snake_lucasns06_light.svg" />
+</picture>
