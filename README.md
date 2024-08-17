@@ -6,7 +6,7 @@
 - 👨‍🦱 Pronomes: ele/dele
 
 
-<br> <br> <br>
+<br> <br> <br> <br>
 <h1 align="center">📫 Contato</h1>
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white")](https://steamcommunity.com/id/Atrofy/")
