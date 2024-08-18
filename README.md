@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Lucas Nascimento</h1>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lucasns06&show_icons=true&bg_color=00000000">
 
-- 🌍 Apaixonado por Tecnologia
+- 🌍 Iniciante
 - 🎓 Cursando Desenvolvimento de Sistemas / ETEC Horácio Augusto da Silveira
 - 👨‍🦱 Pronomes: ele/dele
 
