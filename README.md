@@ -4,7 +4,7 @@
 - 🌍 Iniciante
 - 🎓 Cursando Desenvolvimento de Sistemas / ETEC Horácio Augusto da Silveira
 - 👨‍🦱 Pronomes: ele/dele
-- Projetos: [Functiontrix](https://github.com/lucasns06/Functiontrix)
+- 💻 Projetos: [Functiontrix](https://github.com/lucasns06/Functiontrix)
 
 <br> <br> <br> <br>
 <h1 align="center">📫 Contato</h1>
