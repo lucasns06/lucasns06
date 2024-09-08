@@ -15,7 +15,7 @@
 
 ## 📘 Pretendo ser
 
-- FullStack developer
+- Full Stack developer
 
 ## 📫 Contato
 
