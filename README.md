@@ -1,19 +1,32 @@
 <h1 align="center">👋 Olá, eu sou Lucas Nascimento</h1>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lucasns06&show_icons=true&bg_color=00000000">
+
+<img  align="center" src="https://github.com/lucasns06/lucasns06/blob/main/readme.gif">
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasns06&show_icons=true&theme=transparent">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasns06&layout=compact&theme=transparent" />
+</div>
+
+## 👀 Sobre mim
 
 - 🌍 Iniciante
 - 🎓 Cursando Desenvolvimento de Sistemas / ETEC Horácio Augusto da Silveira
 - 👨‍🦱 Pronomes: ele/dele
-- 💻 Projetos: [Functiontrix](https://github.com/lucasns06/Functiontrix)
 
-<br> <br> <br> <br>
-<h1 align="center">📫 Contato</h1>
+## 📘 Pretendo ser
+
+- FullStack developer
+
+## 📫 Contato
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white")](https://steamcommunity.com/id/Atrofy/")
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasns06/) 
-<!--https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="snake_lucasns06_dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="snake_lucasns06_light.svg" />
-  <img alt="github-snake" src="snake_lucasns06_light.svg" />
-</picture>
+
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="snake_lucasns06_dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="snake_lucasns06_light.svg" />
+    <img alt="github-snake" src="snake_lucasns06_light.svg" />
+  </picture>
+</div>
