@@ -9,9 +9,9 @@
 
 ## 👀 Sobre mim
 
-- 🌍 Iniciante
-- 🎓 Cursando Desenvolvimento de Sistemas / ETEC Horácio Augusto da Silveira
-- 👨‍🦱 Pronomes: ele/dele
+Tenho 17 anos, e estou no 2º Módulo de Desenvolvimento de sistemas.
+
+- Atualmente estou desenvolvendo meu TCC, que será um aplicativo que facilita a comunicação de pessoas autistas não verbais.
 
 ## 📘 Pretendo ser
 
