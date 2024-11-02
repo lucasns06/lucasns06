@@ -17,7 +17,7 @@ Sou um entusiasta da tecnologia e estudante dedicado. Atualmente, estou mergulha
 
 ## 📫 Contato
 
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white")](https://steamcommunity.com/id/Atrofy/")
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasns06/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasns06/) 
 
 
