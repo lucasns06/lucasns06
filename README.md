@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Lucas Nascimento</h1>
+<h1 align="center">👋 Olá, eu sou <a href="https://lucasns06.github.io">Lucas Nascimento</a></h1>
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  height="300em" align="right" >
 
@@ -7,8 +7,6 @@
 ### 👀 Sobre mim
 
 Sou um entusiasta da tecnologia e estudante dedicado. Atualmente, estou mergulhando no mundo do desenvolvimento de software, estou também focado em desenvolver minha criatividade, buscando sempre novas maneiras de abordar desafios e encontrar soluções. <br>
-
-De uma olhada no meu [Portfólio!](https://lucasns06.github.io/)
 
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasns06&layout=compact&theme=transparent" /> -->
 </div>
