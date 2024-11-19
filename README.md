@@ -12,6 +12,7 @@ Sou um entusiasta da tecnologia e estudante dedicado. Atualmente, estou mergulha
 </div>
 
 <br> <br> <br>
+<br> <br> <br>
 
 ## :muscle: Habilidades
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vscode,figma)](https://skillicons.dev)
