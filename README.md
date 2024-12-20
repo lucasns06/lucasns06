@@ -1,18 +1,6 @@
 <h1 align="center">👋 Olá, eu sou <a href="https://lucasns06.github.io">Lucas Nascimento</a></h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  height="300em" align="right" >
-
-<div align="left"> 
-  
-### 👀 Sobre mim
-
-Estou em busca de oportunidades de trabalho. <br>
-
-<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasns06&layout=compact&theme=transparent" /> -->
-</div>
-
-<br> <br> <br>
-<br> <br> <br>
+<p>Sou estudante de Desenvolvimento de Sistemas, tenho 18 anos, procurando emprego na área.</p>
 
 ### Atualmente, estou estudando:
 #### Front End
