@@ -6,7 +6,7 @@
   
 ### 👀 Sobre mim
 
-Sou um entusiasta da tecnologia e estudante dedicado. Atualmente, estou mergulhando no mundo do desenvolvimento de software, estou também focado em desenvolver minha criatividade, buscando sempre novas maneiras de abordar desafios e encontrar soluções. <br>
+Estou em busca de oportunidades de trabalho. <br>
 
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasns06&layout=compact&theme=transparent" /> -->
 </div>
