@@ -1,7 +1,5 @@
 <h1 align="center">👋 Olá, eu sou <a href="https://lucasns06.github.io">Lucas Nascimento</a></h1>
 
-<p>Sou estudante de Desenvolvimento de Sistemas, tenho 18 anos, procurando emprego na área.</p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasns06&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 Atualmente, estou estudando:
