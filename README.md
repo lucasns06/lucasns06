@@ -1,8 +1,12 @@
 <h1 align="center">👋 Olá, eu sou <a href="https://lucasns06.github.io">Lucas Nascimento</a></h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasns06&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+## Estou cursando:
 
-## 📚 Atualmente, estou estudando:
+Técnico em Desenvolvimento de sistemas, 3/3.
+
+<Hello, ONE!/> - Oracle + Alura
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasns06&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
+## 📚 Estou estudando:
 #### Front End
 [![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
