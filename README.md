@@ -1,6 +1,10 @@
 <h1 align="center">👋 Olá, eu sou <a href="https://lucasns06.github.io">Lucas Nascimento</a></h1>
 
-## Estou cursando:
+<p align="center">
+  <img src="https://media1.tenor.com/m/IVCnKbtTeRQAAAAd/programming-computer.gif" />
+</p>
+
+## 🚀 Estou cursando:
 
 Técnico em Desenvolvimento de sistemas, 3/3.
 
