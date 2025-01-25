@@ -1,16 +1,30 @@
 <h1 align="center">👋 Olá, eu sou <a href="https://lucasns06.github.io">Lucas Nascimento</a></h1>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/IVCnKbtTeRQAAAAd/programming-computer.gif" />
-</p>
+<img src="https://media1.tenor.com/m/IVCnKbtTeRQAAAAd/programming-computer.gif" height="280em" align="right"  />
+    
+<div align="left">
 
-## 🚀 Estou cursando:
+  Idade: 18 
+
+  Sou um estudante de **Desenvolvimento de sistemas** na ETEC HAS
+
+  Tenho um grande interesse em desenvolvimento web, criando interfaces intuitivas e experiências envolventes. Além disso, também sou back-end.
+  
+</div>
+
+<br> <br> <br>
+<br> <br>
+
+### 🚀 Estou cursando:
+<img align="center" width="100%" src="https://github.com/user-attachments/assets/583ad681-8755-47c4-a0c4-0c3435c6517f">
 
 Técnico em Desenvolvimento de sistemas, 3/3.
 
 <Hello, ONE!/> - Oracle + Alura
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasns06&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
-## 📚 Estou estudando:
+### 📚 Estou estudando:
+<img align="center" width="100%" src="https://github.com/user-attachments/assets/583ad681-8755-47c4-a0c4-0c3435c6517f">
+
 #### Front End
 [![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
@@ -28,7 +42,8 @@ Técnico em Desenvolvimento de sistemas, 3/3.
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](#)
 
 
-## 📫 Contato
+### 📫 Contato
+<img align="center" width="100%" src="https://github.com/user-attachments/assets/583ad681-8755-47c4-a0c4-0c3435c6517f">
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasns06/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasns06/) 
