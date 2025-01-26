@@ -1,19 +1,12 @@
 <h1 align="center">👋 Olá, eu sou <a href="https://lucasns06.github.io">Lucas Nascimento</a></h1>
-
-<img src="https://media1.tenor.com/m/IVCnKbtTeRQAAAAd/programming-computer.gif" height="280em" align="right"  />
     
-<div align="left">
+Idade: 18 
 
-  Idade: 18 
+Sou um estudante de **Desenvolvimento de sistemas** na ETEC HAS
 
-  Sou um estudante de **Desenvolvimento de sistemas** na ETEC HAS
+Tenho um grande interesse em desenvolvimento web, criando interfaces intuitivas e experiências envolventes. Além disso, também sou back-end.
 
-  Tenho um grande interesse em desenvolvimento web, criando interfaces intuitivas e experiências envolventes. Além disso, também sou back-end.
-  
-</div>
-
-<br> <br> <br>
-<br> <br>
+<img src="https://media1.tenor.com/m/IVCnKbtTeRQAAAAd/programming-computer.gif" height="150em" />
 
 ### 🚀 Estou cursando:
 <img align="center" width="100%" src="https://github.com/user-attachments/assets/583ad681-8755-47c4-a0c4-0c3435c6517f">
