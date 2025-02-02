@@ -36,7 +36,8 @@ Técnico em Desenvolvimento de sistemas, 3/3.
 [![Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](#)
 
-</div>
+
+
 ### 📫 Contato
 <img align="center" width="100%" src="https://github.com/user-attachments/assets/583ad681-8755-47c4-a0c4-0c3435c6517f">
 
@@ -44,6 +45,7 @@ Técnico em Desenvolvimento de sistemas, 3/3.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasns06/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://lucasns06.github.io/)
 
+</div>
 <div align="left">
   <picture >
     <source media="(prefers-color-scheme: dark)" srcset="snake_lucasns06_dark.svg"  />
