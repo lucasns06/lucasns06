@@ -6,8 +6,6 @@ Sou um estudante de **Desenvolvimento de sistemas** na ETEC HAS
 
 Tenho um grande interesse em desenvolvimento web, criando interfaces intuitivas e experiências envolventes. Além disso, também sou back-end.
 
-<img src="https://media1.tenor.com/m/IVCnKbtTeRQAAAAd/programming-computer.gif" height="150em" />
-
 ### 🚀 Estou cursando:
 <img align="center" width="100%" src="https://github.com/user-attachments/assets/583ad681-8755-47c4-a0c4-0c3435c6517f">
 
@@ -18,15 +16,17 @@ Técnico em Desenvolvimento de sistemas, 3/3.
 ### 📚 Estou estudando:
 <img align="center" width="100%" src="https://github.com/user-attachments/assets/583ad681-8755-47c4-a0c4-0c3435c6517f">
 
-#### Front End
-[![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
+<div align="center">
+    
+### 🎨 Front End
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
 
-#### Back End
+### 📝 Back End
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
@@ -34,7 +34,7 @@ Técnico em Desenvolvimento de sistemas, 3/3.
 [![Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](#)
 
-
+</div>
 ### 📫 Contato
 <img align="center" width="100%" src="https://github.com/user-attachments/assets/583ad681-8755-47c4-a0c4-0c3435c6517f">
 
