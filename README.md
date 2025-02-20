@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou <a href="https://lucasns06.github.io">Lucas Nascimento</a></h1>
+<h1 align="center">👋 Olá, eu sou <a href="https://lucasns06.github.io/portfolio/">Lucas Nascimento</a></h1>
     
 Idade: 18 
 
@@ -43,7 +43,7 @@ Técnico em Desenvolvimento de sistemas, 3/3.
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasns06/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasns06/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://lucasns06.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://lucasns06.github.io/portfolio/)
 
 </div>
 <div align="left">
