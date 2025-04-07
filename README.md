@@ -11,7 +11,7 @@ Tenho um grande interesse em desenvolvimento web, criando interfaces intuitivas 
 
 Técnico em Desenvolvimento de sistemas, 3/3.
 
-<Hello, ONE!/> - Oracle + Alura
+ONE - Tech Foundation : Especialização em Back-End 
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasns06&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 ### 📚 Estou estudando:
 <img align="center" width="100%" src="https://github.com/user-attachments/assets/583ad681-8755-47c4-a0c4-0c3435c6517f">
