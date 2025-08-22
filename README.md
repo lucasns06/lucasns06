@@ -1,19 +1,25 @@
 <h1 align="center">👋 Olá, eu sou <a href="https://lucasns06.github.io/portfolio/">Lucas Nascimento</a></h1>
-    
-Idade: 18 
 
-Sou um estudante de **Desenvolvimento de sistemas** na ETEC HAS
+Desenvolvedor **Full Stack**, formado como Técnico em **Desenvolvimento de Sistemas** pela **ETEC**.  
+Apaixonado por tecnologia, busco criar soluções eficientes e acessíveis, unindo **Front-end** e **Back-end**.
 
-Tenho um grande interesse em desenvolvimento web, criando interfaces intuitivas e experiências envolventes. Além disso, também sou back-end.
+## 🚀 Front-end
+- Desenvolvimento de sites modernos e responsivos com **React.js**  
+- Estilização com **TailwindCSS** e **Bootstrap**  
+- Animações dinâmicas com **GSAP**  
+- Integração com APIs utilizando **Axios** e **Fetch API**  
 
-### 🚀 Estou cursando:
+## ⚙️ Back-end
+- Criação e consumo de APIs com **Java 17 Spring boot** 
+- Banco de dados relacionais (**MySQL, Sql Server**)
+- Autenticação com **JWT**, segurança e boas práticas de desenvolvimento
+
+### 🚀 Atualmente estou fazendo:
 <img align="center" width="100%" src="https://github.com/user-attachments/assets/583ad681-8755-47c4-a0c4-0c3435c6517f">
 
-Técnico em Desenvolvimento de sistemas, 3/3.
+Oracle Next Education - Tech Foundation : Especialização em Back-End.
 
-ONE - Tech Foundation : Especialização em Back-End 
-<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasns06&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
-### 📚 Estou estudando:
+### 💻 Habilidades
 <img align="center" width="100%" src="https://github.com/user-attachments/assets/583ad681-8755-47c4-a0c4-0c3435c6517f">
 
 <div align="center">
