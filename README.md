@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou <a href="https://lucasns06.github.io/portfolio/">Lucas Nascimento</a></h1>
+<h1 align="center">👋 Olá, eu sou <a href="https://lucas-nascimento.vercel.app">Lucas Nascimento</a></h1>
 
 Desenvolvedor **Full Stack**, formado como Técnico em **Desenvolvimento de Sistemas** pela **ETEC**.  
 Apaixonado por tecnologia, busco criar soluções eficientes e acessíveis, unindo **Front-end** e **Back-end**.
