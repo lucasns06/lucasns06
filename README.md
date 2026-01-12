@@ -10,7 +10,7 @@ Apaixonado por tecnologia, busco criar soluções eficientes e acessíveis, unin
 - Integração com APIs utilizando **Axios** e **Fetch API**  
 
 ## ⚙️ Back-end
-- Criação e consumo de APIs com **Java 17 Spring boot** 
+- Criação e consumo de APIs com **Java & Spring boot** 
 - Banco de dados relacionais (**MySQL, Sql Server**)
 - Autenticação com **JWT**, segurança e boas práticas de desenvolvimento
 
