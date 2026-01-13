@@ -3,16 +3,11 @@
 Desenvolvedor **Full Stack**, formado como Técnico em **Desenvolvimento de Sistemas** pela **ETEC**.  
 Apaixonado por tecnologia, busco criar soluções eficientes e acessíveis, unindo **Front-end** e **Back-end**.
 
-## 🚀 Front-end
-- Desenvolvimento de sites modernos e responsivos com **React.js**  
-- Estilização com **TailwindCSS** e **Bootstrap**  
-- Animações dinâmicas com **GSAP**  
-- Integração com APIs utilizando **Axios** e **Fetch API**  
+### 🛠️ Tecnologias e Ferramentas
 
-## ⚙️ Back-end
-- Criação e consumo de APIs com **Java & Spring boot** 
-- Banco de dados relacionais (**MySQL, Sql Server**)
-- Autenticação com **JWT**, segurança e boas práticas de desenvolvimento
+- **Back-end:** Java (Spring Boot), ASP.NET Core (C#), MySQL, SQL Server.
+- **Front-end:** React, JavaScript, Tailwind CSS, GSAP (Animações).
+- **Ferramentas:** Git, Docker, Figma.
 
 ### 🚀 Atualmente estou fazendo:
 <img align="center" width="100%" src="https://github.com/user-attachments/assets/583ad681-8755-47c4-a0c4-0c3435c6517f">
